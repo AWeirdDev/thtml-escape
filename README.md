@@ -1,6 +1,6 @@
 # thtml-escape
 
-Dependency of `thtml` for (un)escaping HTML.
+Dependency of `thtmlx` for (un)escaping HTML.
 
 ```python
 from thtml_escape import encode, decode
